@@ -1,6 +1,6 @@
 # Olá, seja bem-vindo ao meu perfil! 👋
 
-Sou desenvolvedor web, me especializando em **TypeScript** e **React.js** e **frameworks javascript**. Ao longo da minha jornada, tenho buscado aprimorar minhas habilidades constantemente, explorando novas tecnologias e desenvolvendo projetos desafiadores.
+Sou desenvolvedor web, me atualizando em **TypeScript** e **React.js** e **frameworks javascript**. Ao longo da minha jornada, tenho buscado aprimorar minhas habilidades constantemente, explorando novas tecnologias e desenvolvendo projetos desafiadores.
 
 Meu foco é criar soluções eficientes, funcionais e bem estruturadas. Atualmente, trabalho com tecnologias como **Firebase** e **JavaScript**, além de estar sempre aprendendo e implementando boas práticas de desenvolvimento.
 
